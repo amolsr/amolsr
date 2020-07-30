@@ -1,4 +1,4 @@
-### 👋 Hi There, I am Aayush
+### 👋 Hi There, I am Amol
 
 <a href="https://www.linkedin.com/in/amolsr/">
   <img align="center" alt="Amol's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
