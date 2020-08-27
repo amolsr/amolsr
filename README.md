@@ -13,7 +13,8 @@
 </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amolsr.amolsr)
-[![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/amolsr?tab=followers)
+![github stats](https://github-readme-stats.vercel.app/api?username=programmergaurav&show_icons=true&title_color=fff&theme=radical&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmergaurav&layout=compact&title_color=fff&theme=radical)
 
 ### Extra Details
 - 🔭 I’m currently working on new and exciting Backend projects
