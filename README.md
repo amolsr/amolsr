@@ -13,8 +13,7 @@
 </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=amolsr.amolsr)
-![github stats](https://github-readme-stats.vercel.app/api?username=programmergaurav&show_icons=true&title_color=fff&theme=radical&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmergaurav&layout=compact&title_color=fff&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/amolsr?tab=followers)
 
 ### Extra Details
 - 🔭 I’m currently working on new and exciting Backend projects
@@ -25,4 +24,4 @@
 - ⚡ Fun fact: Big time Marvel Fan
 
 ![amolsr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolsr&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsr&layout=compact&title_color=fff&theme=radical)
