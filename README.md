@@ -17,7 +17,7 @@
 
 ### Extra Details
 - 🔭 I’m currently working on new and exciting Backend projects
-- 🌱 I’m currently learning frontend using React.Js
+- 🌱 I’m currently learning frontend using Next.Js
 - 👯 I’m looking to collaborate on anything that requires code ;)
 - 💬 Ask me about Node.Js
 - 📫 How to reach me: Via mail
