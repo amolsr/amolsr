@@ -16,9 +16,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/amolsr?tab=followers)
 
 ### Extra Details
-- 🔭 I’m currently working on new and exciting Backend projects
-- 🌱 I’m currently learning frontend using Next.Js
-- 👯 I’m looking to collaborate on anything that requires code ;)
+- 🔭 I’m currently working on System Architecture
+- 🌱 I’m currently learning backend using Spring boot.
+- 👯 I’m available for any paid projects ;)
 - 💬 Ask me about Node.Js
 - 📫 How to reach me: Via mail
 - ⚡ Fun fact: Big time Marvel Fan
