@@ -17,9 +17,8 @@
 
 ### Extra Details
 - 🔭 I’m currently working on System Architecture
-- 🌱 I’m currently learning backend using Spring boot.
+- 🌱 I’m currently learning backend using Kubernetes.
 - 👯 I’m available for any paid projects ;)
-- 💬 Ask me about Node.Js
 - 📫 How to reach me: Via mail
 - ⚡ Fun fact: Big time Marvel Fan
 
