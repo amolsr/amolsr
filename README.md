@@ -17,7 +17,7 @@
 
 ### Extra Details
 - 🔭 I’m currently working on System Architecture
-- 🌱 I’m currently learning backend using Kubernetes.
+- 🌱 I’m currently learning Airflow and Kafka.
 - 👯 I’m available for any paid projects ;)
 - 📫 How to reach me: Via mail
 - ⚡ Fun fact: Big time Marvel Fan
