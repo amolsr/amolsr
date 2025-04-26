@@ -12,7 +12,6 @@
 </br>
 </br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=amolsr.amolsr)
 [![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/amolsr?tab=followers)
 
 ### Extra Details
