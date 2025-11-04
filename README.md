@@ -11,4 +11,4 @@
 
 ![amolsr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolsr&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsr&layout=compact&theme=dark)
